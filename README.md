@@ -7,6 +7,8 @@
 - [Process Flow](#process-flow)
 - [Roadmap](#roadmap)
 - [Gallery](#gallery)
+  - [App](#app)
+  - [Power BI Reports](#power-bi-reports)
 
 # Power Apps
 This repo is home to sample apps built for GCC, GCC High & DoD clouds. It is provided as-is without explicit or implicit support. Issues may be posted to Github issues list and may contribute to the overall project. You are encouraged to modify and configure the app to suit your needs but keep in mind the MIT licensing guidelines.
@@ -82,11 +84,12 @@ The app flows in the following manner:
 - More admin tools, searching, sorting, etc.
 
 # Gallery
-
+## App
 ![image](/images/Homescreen.png)
 ![image](/images/ListView.png)
 ![image](/images/SMScreen.png)
 ![image](/images/ASDFinal_DocGenerated.png)
+## Power BI Reports
 ![image](/images/ASD_PowerBI_Overview.png)
 ![image](/images/ASD_ProcessInsights.png)
 ![image](/images/ASD_ProcessInsights-Trends.png)
