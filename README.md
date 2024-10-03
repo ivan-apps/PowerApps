@@ -38,6 +38,7 @@ This repo is home to sample apps built for GCC, GCC High & DoD clouds. It is pro
 - Determine Environment to install this app in. You must be at least an Environment Maker.
 - Determine SPO Site to install this app in. You should be an SCA in order to create and configure the permissions.
 - Install all list & document templates on the [SPO List Templates](/PowerApps/DD2875%20Routing/SPO%20List%20Templates/) folder
+- *NEW* List templates are now provided in CSV schema files for easier creation. Unfortunately DocLibs do not have a similar .CSV export so those are still .STP files.
 - Add the Word document template for the DD2875 on the appropriate document library. [LINK](/PowerApps/DD2875%20Routing/Word%20Templates/Template-DD-2875%20SAAR%20for%20SharePoint.docx)
 - Secured SSN List
   - break inheritance on this list and remove inherited permissions. Ensure this list has item-level permissions so that users can only see what they created. 
